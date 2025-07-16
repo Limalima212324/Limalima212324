@@ -17,6 +17,9 @@
 ###
 
 <h2 align="left">Eu codifico com </h2>
+<p> JavaScript</p>  
+<p>CSS</p>
+<p>HTML</p>
 
 ###
 
