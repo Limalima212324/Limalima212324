@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Eu sou **Lucas Lima**, um desenvolvedor em formação, natural de Lupionópolis-PR.
+Eu sou **Lucas Lima**, um Desenvolvedor em formação, natural de Lupionópolis-PR Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Unifatecie.
 
 * ✨ **Status Atual:** Criando e desenvolvendo meus primeiros mini-projetos.
 * 📚 **Estudos:** Focado em dominar o *front-end* (JavaScript, HTML, CSS, e TypeScript).
@@ -39,9 +39,8 @@ Eu codifico e estudo principalmente com:
 
 ---
 
-## 📊 Estatísticas do GitHub (Opcional)
+## 📊 Estatísticas do GitHub 
 
-* **Dica:** Adicionar estatísticas mostra sua atividade e comprometimento com a plataforma.
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
