@@ -57,10 +57,11 @@ Eu codifico e estudo principalmente com:
 
 ## 🤝 Conecte-se Comigo
 
-* **Dica:** Coloque links para suas redes sociais ou portfólio (se tiver) para que recrutadores ou outros devs possam te encontrar.
-
 | | Contato |
 | :---: | :--- |
-| **🔗 LinkedIn** | [Lucas Lima](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI) |
-| **📧 Email** | lucaslima.dev@email.com (Exemplo) |
-| **💻 Portfólio** | [Meu Portfólio](https://SEU_PORTFOLIO_AQUI) |
+| **🔗 Portfólio** | [Acesse meu Portfólio aqui](https://portf-lio-xi-orpin.vercel.app/) |
+| **💼 LinkedIn** | [Lucas Lima](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI) |
+| **📸 Instagram** | [lucas1161](https://www.instagram.com/lucas1161/?hl=pt-br) |
+| **📧 Email** | lucaslima988@gmail.com |
+
+---
