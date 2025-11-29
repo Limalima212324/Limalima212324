@@ -79,9 +79,7 @@ Para evitar problemas de carregamento, aqui está um resumo estável das minhas 
 - TypeScript: 🟡🟡⚪⚪⚪
 - Git/GitHub: 🟢🟢🟡⚪⚪
 
-<p align="center">
-  <img src="https://i.imgur.com/vxXfRDA.png" width="80%" alt="Tech Banner">
-</p>
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
