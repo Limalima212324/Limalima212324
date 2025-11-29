@@ -8,12 +8,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor em formação, atualmente estudando **Análise e Desenvolvimento de Sistemas** e focado na construção da base para me tornar um **Desenvolvedor Full-Stack**.
+Sou um desenvolvedor em formação, atualmente cursando **Análise e Desenvolvimento de Sistemas** e construindo a base para me tornar um **Desenvolvedor Full-Stack**.
 
 - 🎓 Faculdade: *Unifatecie*  
 - 🎯 Foco atual: **JavaScript, TypeScript, HTML, CSS**  
-- 🚀 Próximo passo: **Node.js** e **React**  
-- ☕ Fun fact: ainda não compilo café… mas debugar com `console.log()` é meu hobby favorito!
+- 🚀 Próximos passos: **Node.js** e **React**  
+- ☕ Fun fact: ainda não compilo café… mas debugar com `console.log()` é meu superpoder!
 
 ---
 
@@ -24,7 +24,7 @@ Sou um desenvolvedor em formação, atualmente estudando **Análise e Desenvolvi
 - TypeScript  
 - HTML5  
 - CSS3  
-- Git & GitHub
+- Git & GitHub  
 
 ### **Em breve**
 - Node.js  
@@ -32,15 +32,19 @@ Sou um desenvolvedor em formação, atualmente estudando **Análise e Desenvolvi
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Meu GitHub (Resumo Manual)
 
-> *As estatísticas podem demorar alguns segundos para carregar.*
+Para evitar problemas de carregamento, aqui está um resumo estável das minhas atividades:
 
-### 📊 Lucas GitHub Stats
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuUsuario&show_icons=true&theme=tokyonight)
+| Informação | Detalhe |
+|-----------|---------|
+| 🔹 **Usuário** | `Lucaslima212324` |
+| 📁 **Repositórios Públicos** | Em crescimento constante |
+| 🚀 **Foco Atual no GitHub** | Projetos simples em JS, HTML e CSS |
+| 📌 **Objetivo** | Evoluir para projetos Full-Stack |
 
-### 🔥 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuUsuario&layout=compact&theme=tokyonight)
+> Caso o GitHub Stats volte a funcionar, posso adicionar novamente os cartões automáticos.  
+> Por enquanto, deixo a versão **mais estável e profissional**.
 
 ---
 
