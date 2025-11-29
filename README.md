@@ -32,17 +32,6 @@ Sou um desenvolvedor em formação, atualmente cursando **Análise e Desenvolvim
 
 ---
 
-## 📊 Commits por Linguagem (Gráfico Minimalista)
-
-<!--
-  Valores usados (exemplo):
-  JavaScript: 5
-  TypeScript: 2
-  HTML: 4
-  CSS: 3
-
-  Para atualizar os números, altere os atributos `height` das <rect> e os textos <text> correspondentes no SVG abaixo.
--->
 
 <div align="center">
 
