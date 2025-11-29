@@ -36,9 +36,11 @@ Sou um desenvolvedor em formação, atualmente estudando **Análise e Desenvolvi
 
 > *As estatísticas podem demorar alguns segundos para carregar.*
 
-[![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucaslima212324&show_icons=true&theme=dark&hide_border=true)](https://github.com/Lucaslima212324)
+### 📊 Lucas GitHub Stats
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuUsuario&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslima212324&layout=compact&theme=dark&hide_border=true)](https://github.com/Lucaslima212324)
+### 🔥 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuUsuario&layout=compact&theme=tokyonight)
 
 ---
 
