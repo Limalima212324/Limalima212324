@@ -28,7 +28,9 @@ Sou um desenvolvedor em formação, atualmente cursando **Análise e Desenvolvim
 
 ### **Em breve**
 - Node.js  
-- React  
+- React
+- API REST
+- FRAMEWORKS: REACT E VUE
 
 ---
 
